@@ -774,7 +774,7 @@ class Main extends PluginTask {
 	}
 }
 
-class RefreshSigns extends PluginTask {
+class Main extends PluginTask {
 	public function __construct($plugin)
 	{
 		$this->plugin = $plugin;
