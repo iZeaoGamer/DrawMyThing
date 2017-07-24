@@ -438,7 +438,7 @@ class Main extends PluginBase implements Listener {
 	}
 }
 
-class GameSender extends PluginTask {
+class Main extends PluginTask {
 	public function __construct($plugin)
 	{
 		$this->plugin = $plugin;
